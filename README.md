@@ -1,10 +1,10 @@
 # Toronto Crime Analysis
 
 ## 📌 Project Overview
-Toronto Crime Analysis is a data-driven project that examines crime patterns in Toronto using **statistical modeling and data visualization techniques**. This analysis explores:
+Toronto Crime Analysis is a data-driven project that examines crime patterns in Toronto using statistical modeling and data visualization techniques. This analysis explores:
 - 📍 When crimes occur most frequently.
-- 🌆 How crime rates differ between **day and night**.
-- 🏙️ How crime trends vary across **different divisions in Toronto**.
+- 🌆 How crime rates differ between day and night.
+- 🏙️ How crime trends vary across different divisions in Toronto.
 
 The goal is to identify meaningful patterns in crime occurrences, aiding law enforcement agencies and policymakers in making informed decisions.
 
@@ -22,11 +22,11 @@ The goal is to identify meaningful patterns in crime occurrences, aiding law enf
 
 ## 🚀 Features
 - ✅ **Data Cleaning & Transformation** → Handling missing values, filtering datasets, and categorizing time-based occurrences.
-- 📊 **Exploratory Data Analysis (EDA)** → Generating **scatter plots, density plots, and boxplots** to visualize trends.
-- 📈 **Statistical Analysis** → Performing **correlation, covariance, ANOVA, and T-tests** to identify key relationships.
-- 🔮 **Predictive Modeling** → Building **linear regression models** to analyze crime patterns over time.
-- 🌃 **Crime Pattern Analysis** → Comparing **crime rates between day and night** using statistical tests.
-- 🧠 **Machine Learning Validation** → Applying **cross-validation techniques** to assess model performance.
+- 📊 **Exploratory Data Analysis (EDA)** → Generating scatter plots, density plots, and boxplots** to visualize trends.
+- 📈 **Statistical Analysis** → Performing correlation, covariance, ANOVA, and T-tests to identify key relationships.
+- 🔮 **Predictive Modeling** → Building linear regression models to analyze crime patterns over time.
+- 🌃 **Crime Pattern Analysis** → Comparing crime rates between day and night using statistical tests.
+- 🧠 **Machine Learning Validation** → Applying cross-validation techniques to assess model performance.
 
 ---
 
