@@ -39,6 +39,6 @@ cd Toronto-Crime-Analysis
 # 2️⃣ Install Required R Packages
 install.packages(c("ggplot2", "dplyr", "caret", "lmtest", "car", "effectsize"))
 # 3️⃣ Load Dataset
-# Ensure the dataset file 'crime_data.csv' is placed in the project directory.
+# Link to the file is located here: https://open.toronto.ca/dataset/major-crime-indicators/
 # 4️⃣ Run the Analysis
 source("Toronto_Crime_Analysis.R")
